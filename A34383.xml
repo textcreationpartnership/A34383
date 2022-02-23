@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Continuation of the state of New-England being a farther account of the Indian warr, and of the engagement betwixt the joynt forces of the United English collonies and the Indians on the 19th of December 1675 ... Together with an account of the intended rebellion of the Negroes in the Barbadoes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34383</idno>
+            <idno type="STC">Wing S119A</idno>
+            <idno type="STC">Wing C5971</idno>
+            <idno type="STC">ESTC R29328</idno>
+            <idno type="EEBO-CITATION">11076646</idno>
+            <idno type="OCLC">ocm 11076646</idno>
+            <idno type="VID">46254</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46254)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1420:21, 2152:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Continuation of the state of New-England being a farther account of the Indian warr, and of the engagement betwixt the joynt forces of the United English collonies and the Indians on the 19th of December 1675 ... Together with an account of the intended rebellion of the Negroes in the Barbadoes.</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Dorman Newman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed March 27, 1676. Henry Oldenburg."</note>
+                  <note>Item at 1420:21 identified as Wing C5971 (entry cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>King Philip's War, 1675-1676.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+               <term>West Indies --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:46254:1"/>
+            <pb facs="tcp:46254:1"/>
+            <p>A Continuation Of the STATE of NEW-ENGLAND; Being a Farther ACCOUNT of the Indian Warr, And of the Engagement betwixt the Joynt Forces of the United <hi>Engliſh</hi> Collonies and the <hi>Indians,</hi> on the 19th of <hi>December</hi> 1675. With the thue Number of the Slain and Wounded, and the Tranſactions of the <hi>Engliſh</hi> Army ſince the ſaid Fight. With all other Paſſages that have there Hapned from the 10th. of <hi>November,</hi> 1675. to the 8th. of <hi>February</hi> 1675/6. Together with an Account of the intended Rebellion of the <hi>Negroes</hi> in the <hi>Barbadoes.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>Licenſed</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>March</hi> 27. 1676.</date>
+                        </dateline>
+                        <signed>Henry Oldenburg</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms of the British royal family</figDesc>
+               <head>
+                  <q>DIEV ET MON DROIT</q>
+               </head>
+               <p>C. R.</p>
+               <p>HONI SOIT QVI MAY Y PENSE</p>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>Dorman Newman,</hi> at the <hi>Kings Arms</hi> in the <hi>Poultry,</hi> 1676.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:46254:2"/>
+            <head>ERRATA.</head>
+            <p>PAge 1. line 9. read <hi>Nipnet,</hi> ibid. l. 26. r. <hi>Original,</hi> pag. 6. l. the laſt. r. <hi>Wigwams,</hi> p. 7. l. 7. r. <hi>December,</hi> p. 13. l. 11. r. <hi>Wigwams,</hi> p. 14. l. 1. r. <hi>went home,</hi> ibid. l. 10. r. incommoded.</p>
+         </div>
+         <div type="account">
+            <pb n="3" facs="tcp:46254:2"/>
+            <head>BOSTON, <hi>February</hi> the 9th. 1675.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y laſt to you was of the 10th. of <hi>November</hi> paſt, (which, in regard we have had much Weſterly Winds ſince) I hope ere this time you have re<g ref="char:EOLhyphen"/>ceived; according to the beſt Information I had or could procure, I made bold to acquaint you with ſundry Paſſages, that before the date there<g ref="char:EOLhyphen"/>of, came to paſs amongſt us: I alſo ſent you two of our Orders in Print by Order of the Council here; The one for the Confinement of our <hi>Neetop</hi> (i. e. <hi>Friend)</hi> Indians, the other for a general Faſt throughout this Col<g ref="char:EOLhyphen"/>lony: By the one you may ſee the great Care our Authority hath, as well to make a diſtinction viſible, betwixt our Friends the Chriſtian <hi>Indians,</hi> and our Enemies the Heathens, as alſo, to ſecure the one from injuries, and to lay the other open, and make them liable to the hand of Juſtice: By the other you may ſee what ſence of the immediate hand of God upon us our Magiſtrates have; and truly <hi>Sir,</hi> we have great cauſe to bleſs the Lord for that we have ſuch Magiſtrates and Councellers that we are ſo well aſſured do aime at the Glory of God, and the peace and welfare of his people in this Wilderneſs; that however the mighty hand of God is lifted up upon us, and he hath given Commiſſion to the Sword to deſtroy, yet we are well ſa<g ref="char:EOLhyphen"/>tisfied there is nothing wanting that lyeth within the reach of their wiſdom or ſtrength: Wherefore in the midſt of our troubles we comfort our ſelves in this, that we are ſatisfied they do what in them lyeth: I hope in ſome ſhort time I may hear of your receipt thereof.</p>
+            <p>
+               <hi>Sir,</hi> In my laſt I alſo gave you (at firſt) an Account of the Reaſons of the Riſe and Origin of theſe unhappy Wars, in which, my Information was not ſo perfect, but that there was ſomewhat amiſs; although, at that time, the Account thereof was generally receiv'd, and the alteration is not much, only in ſome few particular circumſtances: Wherefore, that you might be the
+<pb n="4" facs="tcp:46254:3"/> more certain thereof, I ſhall give you an account wherein I miſſed, Thus: About ſix years ſince one <hi>Soſoman,</hi> (an <hi>Indian</hi>-Schollar and Miniſter) having ſpent ſome years in the Study of Divinity, being by that time judged capable of Preaching the Goſpel, was by the Authority of <hi>Plymouth</hi> ſent to Preach to King <hi>Philip;</hi> he with ſome ſeeming-kind of Devotion, heard him for a while at ſeveral times; and however his Zeal was in outward appearance, yet all that time, and a good while before, he, with ſeveral of his own men, had a Conſpiracy to cut off the <hi>Engliſh</hi> thereabouts, and ſcrupled not to make the buſineſs known to <hi>Soſoman,</hi> as ſuppoſing he might be of great uſe to him, in the car<g ref="char:EOLhyphen"/>rying on that bloody deſign; whereupon this <hi>Soſoman</hi> ſoon after makes this thing known to the Governor of <hi>New-Plymouth-Collony, Joſiah Winſlow</hi> Eſq; King <hi>Philip</hi> ſuſpecting he either would divulge, or had already made known this ſecret to the <hi>Engliſh,</hi> took Councel to kill this <hi>Soſoman;</hi> where<g ref="char:EOLhyphen"/>fore in order thereunto, one day, as he ſat fiſhing by a River-ſide, two or three <hi>Indians</hi> came and barbarouſly Murthered him in the place; where<g ref="char:EOLhyphen"/>upon, as ſoon as the Governor and Councel of <hi>Plymouth</hi> heard thereof, ſent and took the ſaid Murtherers; as alſo a ſmall Party went to King <hi>Philip</hi> and brought him and moſt of his chief men to <hi>Plymouth,</hi> and there Examined them, and had ſeveral meetings in Conſultation about the buſineſs; but King <hi>Philip</hi> behaved himſelf very uncivilly (like a Heathen,) however due proof could not be produced againſt him, and he nor his Men not having yet ſhed any Engliſh Blood after his entring into a League of Peace with the <hi>Engliſh,</hi> was diſmiſt; only the Murtherers after a legal Condemnation were Hanged. Here lies the occaſion of our preſent difference, which I have made bold to acquaint you of.</p>
+            <p>
+               <hi>Sir,</hi> Towards the cloſe of my laſt to you, I gave you an Account of what was done at <hi>Hatfield</hi> the 19th. of <hi>Octob.</hi> laſt; in which Fight the Heathens were ſo put to it, that they were forced to go to their laſt refuge, that is, the <hi>Narraganſets,</hi> who I wrote you, word we feared every day more and more would prove perfidious to us; wherefore the Authority of the United Collonies having Intelligence that King <hi>Philip</hi> with his whole retinue, as well Women and Children, <hi>&amp;c.</hi> did harbor themſelves under the pro<g ref="char:EOLhyphen"/>tection of <hi>Ninicroft,</hi> who is the King of the <hi>Narraganſets,</hi> as alſo hearing that that ſame <hi>Sachem,</hi> that came to <hi>Boſton</hi> about the end of <hi>September</hi> laſt, (being <hi>Ninicroft</hi>'s Eldeſt Son) is ſince Marryed to the <hi>Squaw Sachem;</hi> which Marriage doth ſignifie a near Alliance: and alſo ſeeing that what that <hi>Sa<g ref="char:EOLhyphen"/>chem</hi> did agree unto with our Authority, when in <hi>Boſton,</hi> is not at all regard<g ref="char:EOLhyphen"/>ed by them, (for that <hi>Sachem</hi> ſent word when he came home into his own Country, that <hi>Ninicroft</hi> would not agree to what he had done:) theſe things ſo falling out near the ſame time, put our Authority then in Coun<g ref="char:EOLhyphen"/>cel upon ſome neceſſity of finding out a ſpeedy way to remedy the ſame. But notwithſtanding their perfideouſneſs hitherto, yet about three weeks after, five <hi>Sachems</hi> came together from <hi>Ninicroft</hi> to <hi>Boſton,</hi> and engaged that our Enemies, entertained by them, ſhould be delivered up inſtantly; but nothing being done of what they promiſed, the Commiſſioners of the United Collonies, ſitting in Councel here, (the ſeveral conſid erations here expreſt, with others moveing them thereto) in the firſt place publiſhed this following Remonſtrance (here inſerted <hi>verbatim)</hi> and ordered a Body of Souldiers,
+<pb n="5" facs="tcp:46254:3" rendition="simple:additions"/> Horſe and Foot to march hence; in order thereunto, on the 10th. of this Inſtant <hi>December,</hi> ſix Companies of Foot and Horſe marched hence un<g ref="char:EOLhyphen"/>to <hi>Seaconck:</hi> The number of the Souldiers were thus; Of <hi>Maſſachuſetts</hi> and <hi>Plimouth</hi> Collonies 700. Foot and 200. Horſe, and <hi>Connecticot</hi> Collony having 300. Foot and 100. Horſe ready to meet them at <hi>New London,</hi> whereof Governour <hi>Joſiah. Winſlow</hi> is gone out General: From <hi>Maſſachuſetts</hi> Collony is gone out in Command, Major <hi>Appleton</hi> of <hi>Ipſwich,</hi> Captain <hi>James Oliver,</hi> Captain <hi>Samuel Moſeley,</hi> and Capt. <hi>Nath. Davenport</hi> of <hi>Boſton,</hi> Capt. <hi>Johnſon</hi> of <hi>Roxbury,</hi> Capt. <hi>Gardner</hi> of <hi>Salem,</hi> and Capt. <hi>Tho<g ref="char:EOLhyphen"/>mas Prentice,</hi> Capt. of the Horſe. Theſe were Commanders of thoſe ſeven Companies that marched hence. The 16th. Inſtant we had advice from them, that the Enemy had burnt Mr. <hi>Jeremiah Balls</hi> Houſe at <hi>Narragan<g ref="char:EOLhyphen"/>ſett,</hi> and killed 18. Men, Women, and Children that were in it, and that they had taken 55. <hi>Indians,</hi> and killed 10. more, and burnt 150. Wigwams with the loſs of four of our Men, and as many wounded. This exploit was performed by Capt. <hi>Prentice,</hi> a Capt. of the Horſe.</p>
+            <p>The weather now being extream cold, having, both Froſt and Snow in moſt places two foot, in many places three foot deep, we have as yet had nothing like to a Field Battel with the <hi>Indians,</hi> ſave that Fight we had at <hi>Hatfield,</hi> of which I gave you an Account of in my laſt, until theſe Soul<g ref="char:EOLhyphen"/>diers went out laſt; ſince which time, by ſeveral Poſts coming daily thence, as alſo by private Letters, I have this Account of this Fight in particular.</p>
+            <p>On <hi>Saturday</hi> the 19th. Inſtant, the General Muſtered up the whole Ar<g ref="char:EOLhyphen"/>my in <hi>November,</hi> as before, having with them three Miniſters, <hi>viz.</hi> Mr. <hi>Dudley,</hi> Mr. <hi>Buckley,</hi> and Mr. <hi>Samuel Nowel,</hi> at Capt. <hi>Smiths</hi> Houſe, (the ſame Capt. <hi>Smith</hi> I told you in my laſt, that came to <hi>Boſton</hi> with <hi>Ninnicroft</hi>'s Eldeſt Son a <hi>Sachem)</hi> whoſe dwelling is about four miles off the <hi>Narraganſetts</hi> dwellings, and is now the ſtrongeſt Garriſon in thoſe parts) and having given orders for a march, according to diſcretion, marched to<g ref="char:EOLhyphen"/>wards the <hi>Narraganſets</hi> Country (or Town) where finding no <hi>Indians,</hi> they were at a ſtand, not knowing which way to go in purſuit of the <hi>Indians;</hi> but however during their ſtay, their Capt. <hi>Prentice,</hi> with his Company diſco<g ref="char:EOLhyphen"/>vered ſome place under ground, wherein was Indian-Corn laid up in ſtore by them; this encouraged them to look farther; whereupon in their ſearch they found ſeveral good quantities of that grain in like manner, which after<g ref="char:EOLhyphen"/>wards was conveyed to the Garriſon. In the Afternoon of that <hi>Saturday,</hi> ſome of the Souldiers accidentally eſpied an <hi>Indian</hi> alone, whom they took and carried to the General, who upon his refuſal to anſwer to thoſe queſtions demanded, was ordered to be Hanged forthwith; whereupon the <hi>Indian</hi> to ſave his life, told them where the whole body of the <hi>Indians</hi> were together, as well King <hi>Philip,</hi> and all other Confederate <hi>Sagamores</hi> and <hi>Sachems</hi> with their whole retinue, as alſo the whole body of the <hi>Narraganſets,</hi> being joyned all in a body in <hi>November,</hi> about 4500. <hi>Indian</hi> men, beſides Wives and Children: Whereupon, keeping this <hi>Indian</hi> for their Guide, they having proviſions with them, marched all night, the <hi>Indians</hi> being then 16. Miles diſtant from them, and that Night there fell a very hard Snow two or three foot deep, and with-all an extream hard Froſt, ſo that ſome of our Men were frozen in their hands and feet, and thereby diſabled for Service:
+<pb n="6" facs="tcp:46254:4" rendition="simple:additions"/> The next day, about Noon, they come to a large Swamp, which by rea<g ref="char:EOLhyphen"/>ſon of the Froſt all the Night before, they were capable of going over (which elſe they could not have done) they forthwith in one body entered the ſaid Swamp, and in the midſt thereof was a piece of firm Land, of about three or four Acres of ground, whereon the <hi>Indians</hi> had built a kind of a Fort, being Paliſado'd round, and within that a clay Wall, as alſo felled down a<g ref="char:EOLhyphen"/>bundance of Trees to lay quite round the ſaid Fort, but they had not quite finiſhed the ſaid work: The General placed Capt. <hi>Moſeley</hi> in the Front, to enter the Fort, and the reſt of the Companies were placed according to diſ<g ref="char:EOLhyphen"/>cretion: In their march they met with three <hi>Indians</hi> ſent out as Scouts, whom they ſhot dead at ſight thereof: as ſoon as ever the <hi>Indians</hi> ſaw our Army comeing, they ſhot as faſt as ever they could, and ſo our Men did the like. Before our Men could come up to take poſſeſſion of the Fort, the <hi>In<g ref="char:EOLhyphen"/>dians</hi> had ſhot three Bullets through Capt. <hi>Davenport,</hi> whereupon he bled extreamly, and immediatly called for his Lieutenant, Mr. <hi>Edward Ting,</hi> and commited the charge of the Company to him, and deſired him to take care of his Gun, and deliver it according to order, and immediatly died in the place; his Company were extreamly grieved at his death, in regard he was ſo courteous to them; for he being Commander of that Company, be<g ref="char:EOLhyphen"/>longing to <hi>Cambridge</hi> and <hi>Watertown,</hi> &amp;c. was a Stranger to moſt of them; and at the time that he came to take poſſeſſion of his Company, he made a very civil ſpeech to them, and alſo gave them free liberty to chooſe their Serjeants themſelves, which pleaſed them very well, and accordingly did ſo; and it is very probable the <hi>Indians</hi> might think that Capt. <hi>Davenport</hi> was the General, becauſe he had a very good Buff Suit on at that time, and therefore might ſhoot at him.</p>
+            <p>In a ſhort time our Forces entred the Fort, Captain <hi>Moſeley</hi> being in the Front, the <hi>Indians</hi> knowing him very well, many directed their ſhot to him, as he afterwards told the General that he believed he ſaw 50. aim at him: As ſoon as he and they had entred the Fort, he eſpied a heap of above 50. <hi>Indians</hi> lay dead in a corner, which the <hi>Indians</hi> had gathered together; as ſoon as ever our Men had entred the Fort, the <hi>Indians</hi> fled, our men killed many of them, as alſo of their Wives and Children, amongſt which, an Indian Black-Smith (the only man amongſt them) that fitted their Guns and Arrow-heads; and amongſt many more Houſes burnt his, as alſo demoliſhed his Forge, and carried away his Tools; they fought with the <hi>Indians,</hi> and purſued them ſo long as was advantagious to them; then the General gave order to ſound a Retreat, which was done according to order. The Retreat was no ſooner beaten, and the Souldiers were in a Marching poſture, before they were got all out of the Fort, a thouſand freſh <hi>Indians</hi> ſet on our Men, but in an hours time the <hi>Indians</hi> were forced to Retreat and Flie: Our Men, as near as they can judge, may have killed about 600. Indian Men, beſides Women and Children: Many more <hi>Indians</hi> were killed which we could have no account of, by reaſon that they would carry away as many dead <hi>Indians</hi> as they could. Our men be<g ref="char:EOLhyphen"/>fore they had been ſet on by the freſh <hi>Indians,</hi> had ſet fire to moſt of the Waggons in and about the Fort (which were near 1000. in all,) how ma<g ref="char:EOLhyphen"/>ny
+<pb n="7" facs="tcp:46254:4"/> were burnt down they could not tell poſitively, only thus; That they Marched above three miles from the Fort by the light of the Fires. Here is an Account of the number of <hi>Engliſh</hi>-men ſlain by the <hi>Indians</hi> in this Engagement.</p>
+            <p>
+               <table>
+                  <head>A Liſt of the Number of the <hi>Engliſh</hi> Slain and Wounded in the Battel with the <hi>Indians</hi> on the 19th. of <hi>November,</hi> 1675.</head>
+                  <row>
+                     <cell role="label" cols="3">Of the <hi>Maſſachuſets.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Slain.</cell>
+                     <cell role="label">Wounded</cell>
+                  </row>
+                  <row>
+                     <cell>In the Company of Major <hi>Appleton</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Moſeley</hi>'s</cell>
+                     <cell>9</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Oliver</hi>'s</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Johnſon</hi>'s</cell>
+                     <cell>3</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Gardner</hi>'s</cell>
+                     <cell>7</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Davenport</hi>'s</cell>
+                     <cell>4</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">30</cell>
+                     <cell role="label">79</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Wounded, whereof ſome are ſince dead.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Of <hi>Conecticot.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Major <hi>Treat</hi>'s Company</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Capt. <hi>Sealey</hi>'s</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Capt. <hi>Marſhal</hi>'s</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Capt. <hi>Waite</hi>'s</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell role="label">71</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Of <hi>Plymouth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Capt. <hi>Bradford</hi>
+                     </cell>
+                     <cell rows="2">20</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Capt. <hi>Corum</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Troopers</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Loſt in the Woods</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell role="label">27</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Captains <hi>Slain.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Capt. <hi>Davenport</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Capt. <hi>Johnſon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Capt. <hi>Gardner</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Capt. <hi>Marſhal</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Capt. <hi>Gallop,</hi> who Commanded <hi>Uncaſs</hi>'s <hi>Indians.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Wounded.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Captain <hi>Bradford</hi> Shot in the Eye.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Captain <hi>Sealy</hi> Mortally as is feared.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Captain <hi>Maſon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Captain <hi>White.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Lieutenants Wounded.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Lieut. <hi>Savage.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Lieut. <hi>Ting</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Lieut. <hi>Swan</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">Lieut. <hi>Upham</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">Wounded and Slain in all</cell>
+                     <cell role="label">207.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>We wanting good Accomodation for our Wounded men, our General ordered them to be removed to <hi>Road-Iſland,</hi> where they have good Quar<g ref="char:EOLhyphen"/>ters provided, and care taken for their Recovery.</p>
+            <p>
+               <hi>Ninegret</hi> the old <hi>Sachem</hi> of the <hi>Narraganſets,</hi> hath lately, with a ſmall Party of <hi>Indians</hi> ſeparated himſelf from the reſt of his People, diſowning their Actions, and all that joyn with King <hi>Philip,</hi> and profeſſes himſelf a true Friend to the <hi>Engliſh</hi> Intereſt.</p>
+            <pb n="8" facs="tcp:46254:5"/>
+            <p>It may not be amiſs to acquaint you that the Night before the Fight was, and all that day, and the night after, there ſell ſuch an extraordinary Snow that the like hath not been known for many years; and in regard that we had no Poſt come from our Army for 4. or 5, days, many fears aroſe a<g ref="char:EOLhyphen"/>mongſt us that our men were loſt either by the Enemy, or the Snow, which made many an heart-ake amongſt us: But ſo it was, that which we feared would ſpoil us, did very much diſable the Enemy; for we having burnt down almoſt all their Wigwams, as alſo all their Corn that we could find, they thereby have leſs ſhelter and leſs ſubſiſtence left them, which miſery of theirs is much aggravated by that great Snow. The Fight being over, our men Retreated to Mr. <hi>Smith</hi>'s Houſe, where the Noble General gave Order that the Wounded and Sick ſhould firſt of all be cared for, which was done accordingly; and that they might have the better Accomodation in the Houſe, the General himſelf lay in a Barn belonging to the ſaid Houſe. Care is now taken to raiſe a 1000. men more to attend the General, which will ſuddenly march; what the iſſue will be the Lord knows.</p>
+            <p>King <hi>Philip</hi> ſuppoſing that <hi>Hatfield,</hi> a Town on <hi>Conecticot</hi>-River, was very thin of men; he drew together 7 or 800. of his <hi>Indians,</hi> among which they had ſeveral Horſes, and ſuddenly entred the Town on the 19th. of <hi>October,</hi> 1675. which after they had ſet on Fire in three places, they di<g ref="char:EOLhyphen"/>vided themſelves into two bodies, and began to act ſeveral Cruelties on the Inhabitants: The <hi>Engliſh</hi> by their dilligence ſoon quenched the fires; and making up a body of 200. men, moſt of which were newly come into the Town, they fell on the <hi>Indians</hi> with a great deal of fury, and after two hours Fight, compelled the <hi>Indians</hi> to leave the Town with more haſt than they entred; the Engliſh having ſlain about 100. <hi>Indians,</hi> with very little loſs to themſelves, purſued the reſt to the River-ſide, where many were drowned that could not ſwim to the farther ſide. After this Fight, <hi>Philip</hi> and his <hi>Indians</hi> fled to the <hi>Narraganſets,</hi> which cauſed the Counſel of the <hi>Maſſachuſets</hi> to publiſh in Print this Remonſtrance before ſpoken of</p>
+         </div>
+         <div type="account">
+            <pb n="9" facs="tcp:46254:5"/>
+            <head>To our Brethren and Friends, the Inhabitants of the Colony of the <hi>Maſſachuſets.</hi>
+            </head>
+            <argument>
+               <p>Although you cannot be Ignorant, how ſtudious this Govern<g ref="char:EOLhyphen"/>ment hath been to preſerve Peace in this Colony, and hath taken up and Compromiſed diverſe Quarrels that have Riſen between our Selves, our Neighbours, &amp; the <hi>Indians;</hi> And thereby at ſeveral times prevented thoſe Calamities wherewith we are now Preſſed: Yet to ſatisfie you that the ſame Mind, and the ſame Endeavours are continued in the preſent Government, we have thought it neceſſary to let you underſtand the Riſe and Progreſs of our preſent Troubles, with our endeavours to have prevented the ſame.</p>
+            </argument>
+            <p>
+               <hi>IN</hi> June <hi>laſt, we were Certified by our Friends and Confederates of</hi> Plimouth, <hi>that</hi> Philip <hi>the Sachem of</hi> Mount. Hope <hi>was in Arms, and had ſolicited all the</hi> Indians <hi>to joyn with him againſt the Engliſh; and withal, they deſired our Aſſiſtance to Suppreſs him: which we by the Articles of Confederation could not deny, and therefore applied our ſelves to Raiſe ſome Force for their Aſſiſtance: but were ſtil deſirous to pre<g ref="char:EOLhyphen"/>vent a war with the</hi> Indians; <hi>and therefore upon a for<g ref="char:EOLhyphen"/>mer Experience of a good Effect wrought upon the ſaid</hi> Philip, <hi>we reſolved to uſe the ſame means,</hi> viz. <hi>ſending Meſſengers from hence to</hi> Philip <hi>to Treat with him, hoping of the like Iſſue, which upon the like caſe about four years ſince we by Gods good hand obtain<g ref="char:EOLhyphen"/>ed. But our Meſſengers arriving at</hi> Swanzy, <hi>in their way towards Philip, found divers</hi> Engliſh <hi>Murthered on the Road, and were informed by the</hi> Engliſh <hi>there, of divers hoſtilities of the</hi> Indians, <hi>which rendred our</hi>
+               <pb n="10" facs="tcp:46254:6"/> 
+               <hi>Deſign and their Negotiation hopeleſs: Vpon which they returned, &amp; informed us as aboveſaid. where<g ref="char:EOLhyphen"/>upon our Forces began their march in Aid of our Friends at</hi> Plymouth; <hi>and having driven</hi> Philip <hi>from his Country, we being informed that the</hi> Narraganſets <hi>harboured his women, and aided him with men, we ordered our Souldiers to march to</hi> Narraganſet, <hi>in or<g ref="char:EOLhyphen"/>der to keep them quiet, and prevent their ſuccouring or harbouring the Enemy: where, after ſome delay, they were drawn to conſent to our demands, promi<g ref="char:EOLhyphen"/>ſing neither to entertain nor aſſiſt our Enemies which they ſince confirmed in a Treaty with the Commiſſio<g ref="char:EOLhyphen"/>ners of the Colonies; Further engaging that they would deliver all thoſe of Philips party, that upon his Rout near</hi> Scatoneck, <hi>or ſince, were fled to them; but have failed in every particular.</hi>
+            </p>
+            <p>
+               <hi>You may alſo take notice, That before any of our Souldiers marched to</hi> Mount-Hope, <hi>we were very careful to underſtand the ſtate of the</hi> Nipnet-Indians, <hi>to prevent Philips deſign, &amp; ſecure thoſe</hi> Indians, <hi>&amp; therefore diſpatched two Meſſengers well known to them, to certifie them of Philips motion &amp; of our deſire to keep amity &amp; friendſhip with them, according to the Cove<g ref="char:EOLhyphen"/>nants made with them long ſince, no ways Violated on our part. And by the ſaid Meſſengers, received fair returns from the moſt of them, being in 10. or 12. Plan<g ref="char:EOLhyphen"/>tations. Some of them pretended fear of us: For their further ſatisfaction (when our Forces were ſent out againſt Philip) we to ſatisfie &amp; ſecure them, ſent them by</hi> Ephraim Curtice, <hi>a Declaration under the Publick Seal, that we had no deſign or intent to diſturb them, or any other</hi> Indians <hi>that would remain in their Plan<g ref="char:EOLhyphen"/>tations peaceably: which Meſſage &amp; Meſſenger was evilly treated by many of them then Aſſembled, &amp; the Meſſenger much endangered by the younger men, and not with any ſatisfaction by their Sachems, as the Event ſhewed, though at that preſent more mode<g ref="char:EOLhyphen"/>rately received.</hi>
+            </p>
+            <pb n="11" facs="tcp:46254:6"/>
+            <p>
+               <hi>Soon after this diſpatch &amp; before</hi> Philips <hi>flying from</hi> Pocaſſer, <hi>and march up towards the</hi> Nipnet <hi>Country, ſome of the ſaid</hi> Nipnet-<hi>Indians Aſſaulted &amp; ſlew divers of our people at</hi> Mendam; <hi>whereupon Captain</hi> Hutchin<g ref="char:EOLhyphen"/>ſon <hi>with a ſmall Guard, was ſent up to the ſaid</hi> Nipnet-Indians, <hi>(if poſſible to keep them quiet) who arriving at</hi> Quabaog; <hi>whereabouts was a Randezvous of the</hi> Indians, <hi>and having ſent to them, they promiſed to meet him in a certain place, whither he at the time repair<g ref="char:EOLhyphen"/>ing, found not the Indians; and being incouraged by the Engliſh of</hi> Quabaog, <hi>that the Indians were peaceable,</hi> &amp;c. <hi>he advanced forward towards the place of the</hi> Indians <hi>Randezvous to Treat them: But in the way, was by Ambuſcado treacherouſly way-laid, by which himſelf, with ſeveral others were wounded and ſlain, the</hi> Eng<g ref="char:EOLhyphen"/>liſh <hi>of</hi> Quabaog <hi>immediatly Aſſaulted, and the Town, except one Houſe, totally deſtroyed; at which time, as we underſtand,</hi> Philip <hi>alſo with his broken party came up to the ſaid Indians, &amp; upon the firſt, or immediately before the arrival of the Forces, we ſent up for the Re<g ref="char:EOLhyphen"/>lief of thoſe of</hi> Quabaog, <hi>Philip and his whole crew re<g ref="char:EOLhyphen"/>treated (as we then feared, and afterwards were in<g ref="char:EOLhyphen"/>formed) towards</hi> Conecticot-<hi>River, from whence Re<g ref="char:EOLhyphen"/>cruiting himſelf with Ammunition from</hi> Albany, <hi>and with men, partly from the treacherous</hi> Indians <hi>about</hi> Hadly <hi>and</hi> Spring-field, <hi>to have proſecuted his firſt deſign to Ruine and deſtroy the</hi> Engliſh. <hi>And notwithſtand<g ref="char:EOLhyphen"/>ing all the oppoſition of our Forces, hath done much miſchief and ſpoil; and ſince the Repulſe he received at</hi> Hatfield, <hi>withdrew into the</hi> Nipnet. <hi>Country, and ſince that (as we underſtand) towards the</hi> Narragan<g ref="char:EOLhyphen"/>ſets, <hi>who we do conclude, have favoured, abetted, and aſſiſted him therein; and by entertaining and harbouring our Enemies, have dealt falſly and perfi<g ref="char:EOLhyphen"/>diouſly with us: whereby we find our ſelves neceſſa<g ref="char:EOLhyphen"/>rily Ingaged, with the Conſent, Advice and Aſſi<g ref="char:EOLhyphen"/>ſtance of the reſt of the Colonies, in a War with them,</hi>
+               <pb n="12" facs="tcp:46254:7"/> 
+               <hi>as well as with <hi>Philip,</hi> unleſs they prevent the ſame by a timely Complyance and Performance, and Se<g ref="char:EOLhyphen"/>curity for the future: for the managing and carrying on whereof, we hope for, and expect (as we have hi<g ref="char:EOLhyphen"/>therto had) the Aſſiſtance of all his Majeſties Sub<g ref="char:EOLhyphen"/>jects of this Colony in their reſpective Capacities, in the juſt Defence of the Glory of God, the Honour, De<g ref="char:EOLhyphen"/>fence &amp; ſafety of our King, Country, and our Selves, from the Subtilty, Rage, and Treacherous Attempt of our Barbarous Enemies.</hi>
+            </p>
+            <closer>
+               <dateline>Dated in <hi>Boſton,</hi> 
+                  <date>the 7th. of <hi>December,</hi> Anno Chriſti, 1675. Annoque Dommini Caroli Secundi Regis <hi>Angl. Scot. Fran. &amp; Hiber.</hi> De<g ref="char:EOLhyphen"/>fenſoris Fidei, <hi>&amp;c.</hi> 27th.</date>
+               </dateline>
+               <signed>By the Council</signed>
+               <signed>
+                  <hi>Edward Rawſon,</hi> Secret.</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="13" facs="tcp:46254:7"/>
+            <head>BOSTON In <hi>NEW-ENGLAND, February</hi> the 8th. 1675/6.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MY laſt to you beared Date the 21ſt. of <hi>December,</hi> 1675. wherein I gave you a true Account of the ſtate of our Affairs in <hi>New-England,</hi> particularly of the Engagement of our Forces with the <hi>Indians</hi> on the 19th, of <hi>December,</hi> 1675. and the number of the Slain and Wounded. I ſhall now continue my Intelligence according to your requeſt, and my promiſe, and give you a true Account of all tranſ<g ref="char:EOLhyphen"/>actions here (worth your information) ſince the foreſaid <hi>19th.</hi> of <hi>De<g ref="char:EOLhyphen"/>cember.</hi>
+            </p>
+            <p>Our wounded men (thanks be to God) are moſt of them pretty well re<g ref="char:EOLhyphen"/>covered, and only Captain <hi>Sealy</hi> is dead that I can hear of. By ſome Indian-Priſoners, lately taken, we are certainly informed that they had 355. men killed out-right, beſides ſeveral burnt in their Waggons, with Women and Children, and 180. wounded, many of which are ſince dead, particularly <hi>Sachem Quanepins</hi> Brother, who was a man of great Com<g ref="char:EOLhyphen"/>mand among the <hi>Indians.</hi> That Night the <hi>Indians</hi> left the place where the Fight was, and Retreated 5. miles farther into the Country. <hi>Ninecroft</hi> an old Sachem in that Country, who hath hitherto continued Neuter, and neither aſſiſted the <hi>Indians</hi> nor us, ſent ſome of his men the next day, and Buried the dead <hi>Indians,</hi> and as many of the <hi>Engliſh</hi> as were left behind dead.</p>
+            <p>On the 23. and 24th. of <hi>December,</hi> the <hi>Indians</hi> ſent ſome Commiſſioners to our General to Treat of Peace, which they had no mind to conclude; but we ſoon perceived it was only to prevent our falling upon them, and to gain themſelves more time to remove their Army and Proviſion twenty miles farther into the Country, to ſome Rocks where we could not get at them without great danger. Although our General knew this, he was deſi<g ref="char:EOLhyphen"/>rous to keep the Treaty on foot by reaſon the Forces of the Collony of
+<pb n="14" facs="tcp:46254:8" rendition="simple:additions"/> 
+               <hi>Connecticot</hi> had left our Army, and we at home to recruit, and thoſe ſup<g ref="char:EOLhyphen"/>plies from <hi>Boſton,</hi> that are daily expected, not being yet Arrived, our Army was not in a condition to make any new attempts on the Enemy; but had not the <hi>Connecticot</hi> Forces left our Army, we had hopes that we might have compelled the Enemy to yield to our mercy. During this time, our Forces foraged the Country, and brought in great quantities of Indian-Corn to the Army.</p>
+            <p>About the beginning of <hi>January,</hi> the Forces from <hi>Boſton</hi> that were ſent to Reinforce our Army arrived at <hi>Narraganſet,</hi> where our Army then lay: the extream coldneſs of the Seaſon had mightily incommended them in their march; they loſt Eleaven of their Men on their march, that were frozen to death, and brought many others ſick and diſheartned with the ex<g ref="char:EOLhyphen"/>tream coldneſs of the Seaſon: they were joyfully received by the Army; and ſoon after them the Connecticot Forces came to the Army, having Re<g ref="char:EOLhyphen"/>inforced their Companies with ſome freſh men, and brought with them <hi>Unkus</hi> an Old <hi>Sachem,</hi> who dwelt in the <hi>Connecticot</hi> juriſdiction; he brought with him ſome Companies of his own <hi>Indians</hi> to the aſſiſtance of the <hi>Engliſh.</hi>
+            </p>
+            <p>The Winter being now broke up, and the Snow and Ice all gone, our Army conſiſting in all of 1600. men, began their March to the Rocks, where the <hi>Indians</hi> were fled for protection; but in their way, they had in<g ref="char:EOLhyphen"/>telligence that 300. <hi>Indians</hi> had been at <hi>Patuxit,</hi> an Engliſh Plantation on the <hi>Narraganſet</hi> Bay, where they had burnt Mr. <hi>Carpenters</hi> Corn and Hay, and all his Houſes, except his dwelling Houſe, which likewiſe they had ſet on fire, but it was again quenched by ſome <hi>Engliſh</hi> that were in it: They likewiſe drove away with them 180. Sheep, 50. head of large Cattle, and 15. Horſes: Beſides, they took much Cattel from young Mr. <hi>Harris,</hi> and killed a Negroe-Servant of his; and having done this miſchief, returned home with their Booty.</p>
+            <p>Our Army being Arrived in <hi>Pumham</hi>'s Countlry, an <hi>Indian Sachem,</hi> we burnt his Town, and had a ſmall Reincounter with ſome of his <hi>Indians,</hi> where we wounded his chief Captain <hi>Quaquaſh</hi> on the knee, and killed five of his Men, and had four of our <hi>Connecticot</hi> men wounded.</p>
+            <p>Our Scouts brought in Priſoner one <hi>Tift,</hi> a Renegadoe Engliſh man, who having received a deſerved puniſhment from our General, deſerted our Army, and fled to the Enemy, where he had good entertainment, and was again ſent out by them with ſome of their Forces; he was ſhot in the Knee by our Scouts, and then taken before he could diſcharge his Musket, which was taken from him and found deep charged, and laden with Slugs: He was brought to our Army, and Tryed by a Counſel of War, where he pretended that he was taken Priſoner by the <hi>Indians,</hi> and by them com<g ref="char:EOLhyphen"/>pelled to bear Arms in their Service; but this being proved to be falſe, he was Condemned to be Hanged and Quartered, which was accordingly done.</p>
+            <p>Our Army beat the <hi>Indians</hi> from the foreſaid Rocks, and purſued them almoſt as far as <hi>Quabog,</hi> in which purſuit we killed about 60. or 70. of them, and found many of the Matts ſcattered in the way, with which they cover their Houſes, which we ſuppoſe they could not carry with them by rea<g ref="char:EOLhyphen"/>ſon
+<pb n="15" facs="tcp:46254:8"/> of our cloſe purſuit. Some Priſoners taken from them, inform us, that their body conſiſts of 4000. whereof 1800. were Fighting Men, half of which wanted Arms, that they were in great want of Powder, and greater want of Proviſions.</p>
+            <p>Proviſion growing ſcarce in our Army, and the Enemy having cleanſed the Country of things that might tend to our Relief, our General reſolved to purſue them no farther, but to haſten homewards, which accordingly was done with what ſpeed we could; but the ſcarcity of Victuals daily en<g ref="char:EOLhyphen"/>creaſing, we were forced to kill ſeveral of our Horſes for our Suſtenance. Our General diſmiſt the <hi>Connecticot</hi>-Men, and ſent them home the neareſt way, and Old <hi>Unkus</hi> and his <hi>Indians</hi> along with them. They proved very faithful in our Service, and were well treated by us. Our General having left 60. men in Garriſon at Mr. <hi>Smiths</hi> Houſe, at <hi>Narraganſet,</hi> where the Fight was on the 19th. of <hi>December,</hi> came home by the way of <hi>Malborough:</hi> Many of our Souldiers are troubled with the <hi>Flux,</hi> of which our General is one.</p>
+            <p>King <hi>Philip</hi> hath not yet been at <hi>Narraganſet,</hi> as we feared; but is retired with his Men near <hi>Albany,</hi> where he hath kept his Winter Quarters. We very much fear the <hi>Indians</hi> falling on our Out-Towns this Spring, which if they ſhould, would extreamly damnifie us.</p>
+            <p>Our Friend Mr. <hi>H. O.</hi> went out again into the Army, before he was cured of his old wound, and hath received another on his Elbow-joynt, which we fear will cauſe him to loſe his Arm, if not his Life. Our Enemies are yet very Unmerciful, ſparing no perſons life that they can Maſter.</p>
+            <p>I ſee no likelihood of any Peace, but much fear our Wars are far from an end: Our Trade to <hi>Virginia</hi> is quite decayed, not one Veſſel having gone from hence thither ſince the Wars began; but by a ſmall Veſſel Arrived here from thence, we are informed that the <hi>Indians</hi> have fallen unexpected on the <hi>Engliſh,</hi> and deſtroyed many of them, and done much harm with very little loſs to themſelves, but this report finds very little credit with us; by the next Shiping I ſhall (God willing) give you a farther Account of our Affairs, and in the mean time ſhall neglect no opportunity of informing my ſelf of the tranſactions of theſe Parts, being ſenſible how much you have obliged</p>
+            <closer>
+               <signed>Your Friend to his Power, N. S.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="16" facs="tcp:46254:9"/>
+            <head>POST-SCRIPT.</head>
+            <p>I Thought it needful to acquaint you that on the 21th. day of <hi>March,</hi> Anno. 1621. the <hi>Engliſh</hi> made a League of Peace with <hi>Maſſaſoiet,</hi> who was Grand father to the preſent King <hi>Philip,</hi> on the following Terms and Conditions,</p>
+            <p n="1">1. That neither he nor any of his ſhould injure or do hurt to any of our people.</p>
+            <p n="2">2. That if any of his did any harm to any of ours, that then he ſhould ſend the Offender unto us for puniſhment.</p>
+            <p n="3">3. That if any <hi>Engliſh</hi> took any Goods belonging to the ſaid <hi>Maſſaſoit,</hi> or any of his <hi>Indians,</hi> they ſhould reſtore them again: and he obliged himſelf to do the like.</p>
+            <p n="4">4. That if any of the Neighbours of the ſaid <hi>Maſſaſoiet</hi> ſhould make war againſt him, the <hi>Engliſh</hi> ſhould aſſiſt him: and he obliged himſelf to aſſiſt the Engliſh on the like occaſion.</p>
+            <p n="5">5. That he ſhould inform his Neighbours and Confederates of theſe Co<g ref="char:EOLhyphen"/>venants, that they might be careful of wronging either party.</p>
+            <p n="6">6. That where any of his <hi>Indians</hi> came amongſt the <hi>Engliſh,</hi> they ſhould have no Bows or Arrows, or any other Arms with them.</p>
+            <p n="7">7. That in ſo doing, our Soveraign Lord King <hi>James</hi> ſhould eſteem him as his Friend and Ally.</p>
+            <p>Theſe Articles were agreed on to the good ſatisfaction and content of both Parties, and <hi>Maſſaſoiet</hi> was content to become the Subject of our Soveraign Lord King <hi>James,</hi> his Heirs and Succeſſors, and gave to the Engliſh all the Lands adjacent, and to their Heirs for ever.</p>
+            <p>On the 25th. day of <hi>September,</hi> in the year 1639. this great Sachem <hi>Maſſaſoiet,</hi> with <hi>Moanam</hi> his Son, came perſonally to the Court held at <hi>Pli<g ref="char:EOLhyphen"/>mouth</hi> in <hi>New-England,</hi> and deſired that the League and Confederacy for<g ref="char:EOLhyphen"/>merly made with the Government of <hi>Plimouth,</hi> might ſtand and remain in<g ref="char:EOLhyphen"/>violable, and the ſaid <hi>Maſſaſoiet</hi> and his Son <hi>Moanam</hi> did faithfully promiſe to keep and obſerve the Covenants and Conditions therein expreſſed and contained; and that neither of them ſhould needleſly or unjuſtly raiſe any quarrel, or do any wrong to other Natives, or provoke them to War againſt them; and that neither of them ſhould give, ſell, or convey any of their Lands, Territories, or Poſſeſſions whatſoever, to any perſon or perſons whomſoever, without the privity and conſent of the Government of <hi>Pli<g ref="char:EOLhyphen"/>mouth:</hi> All which conditions the ſaid <hi>Maſſaſoiet</hi> and <hi>Moanam</hi> his Son, for themſelves and their Succeſſors, did then faithfully promiſe to obſerve and keep; and the whole Court, in the name of the whole Government for each Town reſpectively, did then ratifie and confirm the aforeſaid ancient League and Conſederacy; and alſo did further promiſe to the ſaid <hi>Maſſaſoiet</hi>
+               <pb n="17" facs="tcp:46254:9"/> and to <hi>Moanam</hi> his Son, that they ſhall and will from time to time defend them and their Succeſſors when need and occaſion ſhall require, againſt all ſuch as ſhall riſe up againſt them, to wrong or oppreſs them unjuſtly.</p>
+            <p>
+               <hi>Anno.</hi> 1662. There being occaſion of ſome ſuſpition of a Plot intended by the <hi>Indians</hi> againſt the Engliſh; <hi>Philip;</hi> the Son of the aforeſaid <hi>Moanam,</hi> and Grandſon of <hi>Maſſaſoiet,</hi> and now the implacable Enemy of the Engliſh, made his perſonal appearance at the Court held at <hi>Plimouth,</hi> Auguſt the 6th. and did there earneſtly deſire the continuance of that amity and friendſhip that had formerly been between the Governours of <hi>Plimouth</hi> and his De<g ref="char:EOLhyphen"/>ceaſed Father and Grand-father; and for that end the ſaid <hi>Philip</hi> doth for himſelf and his Succeſſors, deſire that they might for ever remain ſubject to the King of England, his Heirs and Succeſſors; and doth faithfully promiſe and engage that he and his will truly and exactly obſerve and keep inviolable ſuch conditions as have formerly been by his Predeceſſors made; and par<g ref="char:EOLhyphen"/>ticularly, that he will not at any time needleſly or unjuſtly provoke or raiſe war with any of the Natives, nor at any time give, ſell, or any way diſpoſe of any Lands to him or them appertaining; to any Strangers, or to any without our privity or appointment; but will in all things endeavour to carry it peaceably &amp; inoffenſively towards the Engliſh. And the ſaid Court did then alſo expreſs their willingneſs to continue with him and his the above<g ref="char:EOLhyphen"/>ſaid Friendſhip; and do on their part promiſe that they will afford them ſuch friendly aſſiſtance by advice and otherwiſe, as they juſtly may; and we will require our <hi>Engliſh</hi> at all times to carry it friendly towards them: in witneſs whereof, the ſaid <hi>Philip</hi> the Sachem hath ſet to his hand; as alſo his Unkle, and witneſſed unto by ſundry other of his chief men.</p>
+            <list>
+               <head>Witneſs, </head>
+               <item>
+                  <hi>John Souſamen.</hi>
+               </item>
+               <item>The Mark E of <hi>Francis</hi> the <hi>Sachem</hi> of <hi>Nauſet.</hi>
+               </item>
+               <item>The Mark P of <hi>Philip,</hi> alias <hi>Metacom.</hi>
+               </item>
+            </list>
+            <p>Likewiſe in the year 1621. ſeveral of the <hi>Indian</hi> Sachems, beſides <hi>Maſſa<g ref="char:EOLhyphen"/>ſoiet</hi> before-named, came unto the Government of New <hi>Plimouth,</hi> and ac<g ref="char:EOLhyphen"/>knowledged themſelves to be the Loyal Subjects of our Soveraign Lord King <hi>James,</hi> and ſubſcribed unto a writing to that purpoſe with their own hands; the tenour of which ſaid writing followeth, with their names annex<g ref="char:EOLhyphen"/>ed thereunto, ſome judicious perſons conceive it may be of uſe in ſucceeding Ages, if not in ours; I think it convenient here to inſert it.</p>
+            <p>
+               <floatingText xml:lang="eng" type="treaty">
+                  <body>
+                     <pb n="18" facs="tcp:46254:10"/>
+                     <opener>
+                        <date>September <hi>the</hi> 13th. 1621.</date>
+                     </opener>
+                     <p>Know all men by theſe Preſents, that we whoſe Names are under written, do acknowledge our ſelves to be the Loyal Subjects of King <hi>James,</hi> King of <hi>Great Brittain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> In Witneſs whereof, and as a Teſtimo<g ref="char:EOLhyphen"/>nial of the ſame, we have Subſcribed our Names or Marks as followeth.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Obqnamebud.</hi>
+                              </item>
+                              <item>
+                                 <hi>Gawnacome.</hi>
+                              </item>
+                              <item>
+                                 <hi>Obbatinua.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nattawahunt.</hi>
+                              </item>
+                              <item>
+                                 <hi>Counbatant.</hi>
+                              </item>
+                              <item>
+                                 <hi>Chikkatabak.</hi>
+                              </item>
+                              <item>
+                                 <hi>Quadaquinta.</hi>
+                              </item>
+                              <item>
+                                 <hi>Huttamoiden.</hi>
+                              </item>
+                              <item>
+                                 <hi>Apannow.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                     <postscript>
+                        <p>The Original Inſtruments ſigned with their own hands, and the chief of their men ſtill remain on Record in the Regiſter of the Court of <hi>New Pli<g ref="char:EOLhyphen"/>mouth.</hi>
+                        </p>
+                     </postscript>
+                  </body>
+               </floatingText>
+            </p>
+            <p>In the ſaid year, 1621. the <hi>Narroganſet Indians</hi> ſent a Meſſenger to the Governour of <hi>Plimouth</hi> with a bundle of Arrows tyed together with a Snakes skin, which he underſtood was a threatning and a challenge. Upon which the Governour ſent them this Anſwer; That if they loved War ra<g ref="char:EOLhyphen"/>ther than Peace, they might begin when they would; he had done them no wrong, neither did he fear them, nor ſhould they find him unprovided; and by another Meſſenger ſent the Snakes skin back with Bullets in it, but they would not receive them, but ſent them back again; but the <hi>Indians</hi> were better adviſed than to quarrel with the Engliſh at that time.</p>
+         </div>
+         <div type="account">
+            <pb n="19" facs="tcp:46254:10"/>
+            <head>BARBADOES, Spickes-Bay, <hi>November</hi> the 30th. 1675.</head>
+            <p>MY laſt to you was an information of a bloody Tragedy intended a<g ref="char:EOLhyphen"/>gainſt his Majeſties Subjects here in this Iſland, by the Heathen the Negroes, which was by the Providence of God miraculouſly diſcovered eight days before the intended Murder ſhould have been acted: The manner of the diſcovery was thus; A Negroe man be<g ref="char:EOLhyphen"/>longing to Mr. <hi>Hall</hi> Senior, being abſented from his ſaid Maſter, among ſe<g ref="char:EOLhyphen"/>veral other Negroes who had a hand in the Plot: In a Councel among them, they did contrive that the Negroes belonging to each ſeveral Planta<g ref="char:EOLhyphen"/>tion, ſhould in the dead time of the Night fall on at the ſound of the Allarm, which was to be given in one hour, and at ſeveral places through the Iſland, which Negroes ſo allotted was to kill their Maſter and Miſtreſſes with their Overſeers; this foreſaid Negroe of Mr. <hi>Halls</hi> (though one of the chief Plotters) yet having a reſpect to his Maſter, would by no means conſent to the killing of his Maſter, and upon refuſal was much threatned; and being afraid of his Life, makes his eſcape and returns home; and one day, which was a little before the proſecution of the murder, was over-heard (telling the Plot to his Country-men) by a Negro Woman, who waited and attend<g ref="char:EOLhyphen"/>ed on her Miſtreſs, which the Negro Woman immediately reveals. The Negroe man being taken to examination, confeſt the whole truth, which was immediately told the Governour, who appointed ſome Captains to raiſe their Companies for depreſſing the Rebels, which accordingly was done, and abundance taken &amp; apprehended, &amp; ſince put to death, and the reſt kept in a more ſtricter manner; yet <hi>Jethuran</hi> like, we have kicked a<g ref="char:EOLhyphen"/>gainſt God, and ſlighted the mercy of ſo great a deliverance. The man<g ref="char:EOLhyphen"/>ner of their proceedings I wrote to your more at large; and as the Lord did deliver us from the Tyranny and barbarous cruelty of Savage Heathens, and we ſtill remaining obſtinate, &amp; refuſing to return to him by Repentance; the Lord hath taken us into his own hand to chaſtiſe us, which chaſtilements lyeth very heavy on the poorer ſort, and none of the Rich excepted. Sir, upon the laſt day of <hi>Auguſt</hi> laſt, about ſix of the Clock in the Afternoon, there did ariſe a Violent Storm of Wind &amp; Rain out of the North Weſt, and continuing between the North and the South ſo violent, that before the hour of Twelve at Night, there was not twenty Houſes ſtanding in our Pa<g ref="char:EOLhyphen"/>riſh, in which there is above three hundred Families, and thoſe that did ſtand, much damnified; our Neighbouring Pariſhes taſting of the ſame Cup. There is kill'd out-right (by the falling of Houſes) in this Pariſh, thirty ſeven, and many more is ſince, with the violence of the wind and cold, dead, and many lying in their beds of ſickneſs; and as to our Ships,
+<pb n="20" facs="tcp:46254:11"/> all drove Aſhore to pieces, except one of the Kings Men of War, which went to Sea, and returning next day after the Storm was ceaſed, did pro<g ref="char:EOLhyphen"/>teſt to the Governour, that twenty Leagues off there was no Storm, for he carried his Top ſail half Maſſ high. Our fellow-ſubjects in <hi>New-England,</hi> have the 28th. of the ſame month taſted of the ſame Cup, and was very hard put to it this laſt Summer by one King <hi>Philip</hi> an <hi>Indian</hi> King, who hath Re<g ref="char:EOLhyphen"/>volted without cauſe given him by the <hi>Engliſh,</hi> neither will he ſhew any reaſon why; but being by an Embaſſador from the Governour of <hi>Boſton,</hi> demanded why he would maintain the War, refuſed to Treat with the Em<g ref="char:EOLhyphen"/>baſſador, telling him, <hi>The Governour was but a Subject, and that he would not Treat except his Brother King</hi> Charles <hi>of</hi> England <hi>were there:</hi> There is abundance of Families deſtroyed, beſides thoſe kill'd in the War; but it is very much hoped this Winter they will be Routed; the reaſon is, becauſe they have no Woods nor Buſhes to ſhelter in, which is a great help to a Flying-Army, ſuch as they are, for they will not bide any pitch Battel. Our Bre<g ref="char:EOLhyphen"/>thren in <hi>Virginia</hi> had been hard put to it this laſt Summer, if it had not been for the Relief of <hi>New-England</hi> and <hi>New York,</hi> which makes it the harder with us here: pray God mend it.</p>
+            <p>By the tempeſtuous Wind, and the violent raging of the Sea, which hath much over-flowed our banks, and incroacht upon the Land, here are many Houſes loſt; among which mine was in number, where I ſaved no<g ref="char:EOLhyphen"/>thing to cover us from the violence of the Storm but what was on our backs. Pray God that I may make a ſanctified uſe of the Chaſtiſement, becauſe the Lord hath not given over our Life to Death. So having no more at preſent, but my Service to your ſelf and good Lady, I reſt</p>
+            <closer>
+               <signed>Your humble Servant, G. W.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>I forbear to tell or to write to you of the ſtrange Accidents, as the re<g ref="char:EOLhyphen"/>moving of whole Frames, great timber Trees many yards from their proper ſtations, by the violence of the Storm; if I ſhould, it would be counted Ridiculous, but I leave it to the Relation of others.</hi>
+               </p>
+               <p>Wind-mills down in this Pariſh 16. much damnified 12. indeed none ſtanding but ſtone mills in the Pariſh, but what muſt be pull'd down. Churches down 9. Such another blow will bring <hi>Barbadoes</hi> near the Horizon.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46254:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
